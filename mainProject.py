@@ -31,7 +31,7 @@ def muscleGroups():
 
 
     while(True):
-        x = input("Choose a muscle group or type exit to leave: ")
+        x = input("Choose a muscle group to learn more or type exit to leave: ")
         if x == "exit":
             break
         elif x == "arms":
